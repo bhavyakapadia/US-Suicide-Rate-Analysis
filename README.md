@@ -39,7 +39,7 @@ Created line plots, bar charts, pie charts, scatter plots, and heatmaps
 Weak correlation found between year and suicide rate, indicating non-linear influence of external factors
 
 🧠 Key Insights
-Demographics Matter: Age, gender, and race significantly influence suicide trends
-Elderly & Male Vulnerability: These groups are at highest risk
-Recent Rise: Since 2010, suicide rates have trended upward again
-Policy Implication: Need for gender-specific and elderly-focused interventions
+1.Demographics Matter: Age, gender, and race significantly influence suicide trends
+2.Elderly & Male Vulnerability: These groups are at highest risk
+3.Recent Rise: Since 2010, suicide rates have trended upward again
+4.Policy Implication: Need for gender-specific and elderly-focused interventions
